@@ -42,6 +42,14 @@
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.l.doubleclick.net
 0.0.0.0 ukrpts.net
+0.0.0.0 affiliate.googleusercontent.com
+0.0.0.0 buttons.googlesyndication.com
+0.0.0.0 drm-google-analtyic.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 static-google-analtyic.com
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 www.googleadservices.com
+0.0.0.0 firebaselogging.googleapis.com
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
