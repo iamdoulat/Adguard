@@ -1,3 +1,17 @@
+||googleadservices.com^
+||pagead2.googlesyndication.com^
+||adservice.google.com^
+||adservice.google.co^
+||googlesyndication.com^
+||doubleclick.net^
+||g.doubleclick.net^
+||tpc.googlesyndication.com^
+||securepubads.g.doubleclick.net^
+||ads.google.com^
+||adsense.google.com^
+
+
+------------------------------------
 ||00760.fate.truelance.com^
 ||01fa443f.solaraweb-alj.pages.dev^
 ||059879e5-b2e8-4f58-aa46-95f69d92aa34.random.alphalaureate.com^
