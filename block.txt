@@ -1,56 +1,57 @@
-0.0.0.0 ad-emea.doubleclick.net
-0.0.0.0 ad-g.doubleclick.net
-0.0.0.0 ad.ae.doubleclick.net
-0.0.0.0 ad.be.doubleclick.net
-0.0.0.0 ad.br.doubleclick.net
-0.0.0.0 ad.de.doubleclick.net
-0.0.0.0 ad.dk.doubleclick.net
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 ad.es.doubleclick.net
-0.0.0.0 ad.fi.doubleclick.net
-0.0.0.0 ad.fr.doubleclick.net
-0.0.0.0 ad.it.doubleclick.net
-0.0.0.0 ad.jp.doubleclick.net
-0.0.0.0 ad.mo.doubleclick.net
-0.0.0.0 ad.n2434.doubleclick.net
-0.0.0.0 ad.nl.doubleclick.net
-0.0.0.0 ad.no.doubleclick.net
-0.0.0.0 ad.nz.doubleclick.net
-0.0.0.0 ad.pl.doubleclick.net
-0.0.0.0 ad.se.doubleclick.net
-0.0.0.0 ad.sg.doubleclick.net
-0.0.0.0 ad.uk.doubleclick.net
-0.0.0.0 ad.ve.doubleclick.net
-0.0.0.0 ad.za.doubleclick.net
-0.0.0.0 ad2.doubleclick.net
-0.0.0.0 adclick.g.doubleclick.net
-0.0.0.0 cm.g.doubleclick.net
-0.0.0.0 creative.cc-dt.com
-0.0.0.0 doubleclick.com
-0.0.0.0 doubleclick.de
-0.0.0.0 doubleclick.net
-0.0.0.0 feedads.g.doubleclick.net
-0.0.0.0 fls.doubleclick.net
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 iv.doubleclick.net
-0.0.0.0 m.2mdn.net
-0.0.0.0 m.doubleclick.net
-0.0.0.0 m1.2mdn.net
-0.0.0.0 n479ad.doubleclick.net
-0.0.0.0 pagead.l.doubleclick.net
-0.0.0.0 pagead46.l.doubleclick.net
-0.0.0.0 stats.g.doubleclick.net
-0.0.0.0 stats.l.doubleclick.net
-0.0.0.0 ukrpts.net
-0.0.0.0 affiliate.googleusercontent.com
-0.0.0.0 buttons.googlesyndication.com
-0.0.0.0 drm-google-analtyic.com
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 static-google-analtyic.com
-0.0.0.0 tpc.googlesyndication.com
-0.0.0.0 www.googleadservices.com
-0.0.0.0 firebaselogging.googleapis.com
-googleadservices.com
+||ad-emea.doubleclick.net^
+||ad-g.doubleclick.net^
+||ad.ae.doubleclick.net^
+||ad.be.doubleclick.net^
+||ad.br.doubleclick.net^
+||ad.de.doubleclick.net^
+||ad.dk.doubleclick.net^
+||ad.doubleclick.net^
+||ad.es.doubleclick.net^
+||ad.fi.doubleclick.net^
+||ad.fr.doubleclick.net^
+||ad.it.doubleclick.net^
+||ad.jp.doubleclick.net^
+||ad.mo.doubleclick.net^
+||ad.n2434.doubleclick.net^
+||ad.nl.doubleclick.net^
+||ad.no.doubleclick.net^
+||ad.nz.doubleclick.net^
+||ad.pl.doubleclick.net^
+||ad.se.doubleclick.net^
+||ad.sg.doubleclick.net^
+||ad.uk.doubleclick.net^
+||ad.ve.doubleclick.net^
+||ad.za.doubleclick.net^
+||ad2.doubleclick.net^
+||adclick.g.doubleclick.net^
+||cm.g.doubleclick.net^
+||creative.cc-dt.com^
+||doubleclick.com^
+||doubleclick.de^
+||doubleclick.net^
+||feedads.g.doubleclick.net^
+||fls.doubleclick.net^
+||googleads.g.doubleclick.net^
+||iv.doubleclick.net^
+||m.2mdn.net^
+||m.doubleclick.net^
+||m1.2mdn.net^
+||n479ad.doubleclick.net^
+||pagead.l.doubleclick.net^
+||pagead46.l.doubleclick.net^
+||stats.g.doubleclick.net^
+||stats.l.doubleclick.net^
+||ukrpts.net^
+||affiliate.googleusercontent.com^
+||buttons.googlesyndication.com^
+||drm-google-analtyic.com^
+||pagead2.googlesyndication.com^
+||static-google-analtyic.com^
+||tpc.googlesyndication.com^
+||www.googleadservices.com^
+||firebaselogging.googleapis.com^
+||googleadservices.com^
+||googleadservices.net^
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
@@ -65,7 +66,6 @@ googleadservices.com
 ||dzeaqmeuaql.com^
 ||bjjky.cfd^
 ||dsfvmx.click^
-||mentionideablit.com^
 ||dzliege.com^
 ||chaseherbalpasty.com^
 ||movies-watch-time.club^
