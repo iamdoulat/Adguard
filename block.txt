@@ -50,6 +50,7 @@
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 firebaselogging.googleapis.com
+googleadservices.com
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
@@ -59,6 +60,7 @@
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
+||www.googleadservices.com^
 ||mqprzapns.com^
 ||dzeaqmeuaql.com^
 ||bjjky.cfd^
