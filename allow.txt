@@ -36,9 +36,6 @@ clients5.google.com
 clients6.google.com
 cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
-cse.google.com
-google.com
-www.google.com
 ctldl.windowsupdate.com
 d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
